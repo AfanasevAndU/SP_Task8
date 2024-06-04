@@ -1,0 +1,14 @@
+{
+  "name": "SP_Task8",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/AfanasevAndU/SP_Task8.git",
+  "author": "Андрей Афанасьев <andrei-2005-10@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
